@@ -8,13 +8,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 from khiva.array import *
+from khiva.clustering import *
 from khiva.dimensionality import *
 from khiva.distances import *
 from khiva.features import *
 from khiva.library import *
 from khiva.linalg import *
 from khiva.matrix import *
-from khiva.normalization import *
 from khiva.normalization import *
 from khiva.polynomial import *
 from khiva.regression import *
